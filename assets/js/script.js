@@ -79,20 +79,26 @@ for (let i = 0; i < selectItems.length; i++) {
 const filterItems = document.querySelectorAll("[data-filter-item]");
 
 const filterFunc = function (selectedValue) {
+  const key = (selectedValue || "").toLowerCase();
 
   for (let i = 0; i < filterItems.length; i++) {
+    // read comma-separated categories like "robotics, rl"
+    const cats = (filterItems[i].dataset.category || "")
+      .toLowerCase()
+      .split(",")
+      .map(s => s.trim())
+      .filter(Boolean);
 
-    if (selectedValue === "all") {
-      filterItems[i].classList.add("active");
-    } else if (selectedValue === filterItems[i].dataset.category) {
+    const match = key === "all" || cats.includes(key);
+
+    if (match) {
       filterItems[i].classList.add("active");
     } else {
       filterItems[i].classList.remove("active");
     }
-
   }
+};
 
-}
 
 // add event in all filter button items for large screen
 let lastClickedBtn = filterBtn[0];
