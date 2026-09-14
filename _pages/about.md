@@ -1,15 +1,26 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Bio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am currently pursuing my Master's of Engineering in Systems Design Engineering at the University of Waterloo, following a B.S. with Honors in Computer Engineering from Union College (Class of 2025).
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My work is driven by a fascination with autonomy—understanding how machines perceive, adapt, and navigate complex environments independently. That curiosity took root in the Union College Robotics Crew, where I designed an autonomous Micromouse for IEEE competitions, and deepened through research in Union's Evolutionary Robotics Lab, studying evolved gaits and morphology in voxel-based soft robots.
+
+Since then, I've expanded that foundation into edge software deployment, computer vision, and open-source robotics infrastructure—work that bridges algorithmic theory and physical-world execution. You can find more on my current projects and publications below.
+
+At Waterloo, I'm structuring my graduate work around two complementary pillars of automation: Artificial Intelligence/Machine Learning and Vision, Image & Signal Processing. Modern robotic autonomy depends on real-time signal interpretation, spatial awareness, and robust learning models—my goal is to build deep expertise in these areas to engineer intelligent systems that operate reliably in the physical world.
+
+Looking forward to opportunities in computer vision and AI, on and off campus.
+
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+
+ You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
 
 A data-driven personal website
 ======
