@@ -9,20 +9,20 @@ redirect_from:
 
 I am currently pursuing my Master's of Engineering in Systems Design Engineering at the University of Waterloo, following a B.S. with Honors in Computer Engineering from Union College (Class of 2025).
 
-My work is driven by a fascination with autonomy—understanding how machines perceive, adapt, and navigate complex environments independently. That curiosity took root in the Union College Robotics Crew, where I designed an autonomous Micromouse for IEEE competitions, and deepened through research in Union's Evolutionary Robotics Lab, studying evolved gaits and morphology in voxel-based soft robots.
+My work is driven by a fascination with autonomy, understanding how machines perceive, adapt, and navigate complex environments independently. That curiosity took root in the Union College Robotics Crew, where my team and I designed an autonomous Micromouse for IEEE competitions, and deepened through research in Union's Evolutionary Robotics Lab, studying evolved gaits and morphology in voxel-based soft robots.
 
-Since then, I've expanded that foundation into edge software deployment, computer vision, and open-source robotics infrastructure—work that bridges algorithmic theory and physical-world execution. You can find more on my current projects and publications below.
+Since then, I've expanded that foundation into edge software deployment, computer vision, and open-source robotics infrastructure. This sort of work bridges algorithmic theory and physical-world execution. You can find more on my current projects and publications below.
 
-At Waterloo, I'm structuring my graduate work around two complementary pillars of automation: Artificial Intelligence/Machine Learning and Vision, Image & Signal Processing. Modern robotic autonomy depends on real-time signal interpretation, spatial awareness, and robust learning models—my goal is to build deep expertise in these areas to engineer intelligent systems that operate reliably in the physical world.
+At Waterloo, I'm structuring my graduate work around two complementary pillars of automation: Artificial Intelligence/Machine Learning and Vision, Image & Signal Processing. Modern robotic autonomy depends on real-time signal interpretation, spatial awareness, and robust learning models. My goal is to build deep expertise in these areas to engineer intelligent systems that operate reliably in the physical world.
 
-Looking forward to opportunities in computer vision and AI, on and off campus.
+Looking forward to opportunities in <b>computer vision</b> and <b>AI</b>, on and off campus.
 
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
 
-A data-driven personal website
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -62,6 +62,10 @@ Many people use a git client to create files on their local computer and then pu
 Example: editing a Markdown file for a talk
 ![Editing a Markdown file for a talk](/images/editing-talk.png)
 
+
+
+
+### HELP HELP 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
