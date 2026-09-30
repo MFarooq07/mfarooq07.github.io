@@ -32,6 +32,20 @@ Education
   * Duties included: Tagging issues
   * Supervisor: Professor Git -->
 
+Coursework
+======
+* Advanced Image Processing *
+* Deep Learning *
+* Artificial Intelligence
+* Intro to Logic and Set Theory 
+* Linear Algebra  
+* Evolutionary Robotics Seminar
+* Algorithms Design and Analysis
+* Control Systems
+* Internet of Things
+* Gaming Theory
+* Computer Architecture
+
 Work experience
 ======
 * Jan - Mar 2026: Open Source Contributor
@@ -93,8 +107,9 @@ Projects
 Skills
 ======
 * Programming Languages
-  * C / C++
   * Python
+  * Java
+  * C++
   * Bash / Shell Scripting
 
 * Robotics & Autonomous Systems
