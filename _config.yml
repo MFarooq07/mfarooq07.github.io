@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Muhammad Farooq Memon / MFarooq07.github.io"
+title                    : "Muhammad Farooq Memon"
 title_separator          : "-"
 name                     : &name "Muhamamd Farooq Memon"
 description              : &description "Muhamamd Farooq Memon's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -25,9 +25,9 @@ author:
   # Biographic information
   avatar           : "Farooq pic.jpg"
   name             : "Muhammad Farooq Memon"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "he/him"  
   bio              : "MEng SYDE @UWaterloo"
-  location         : "Rawalpindi, Pakistan"
+  location         : "Waterloo, Ontario, Canada"
   employer         : #""
   uri              : # URL
   email            : "mfmemon@uwaterloo.ca" 
@@ -64,7 +64,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "mfarooq_16"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
